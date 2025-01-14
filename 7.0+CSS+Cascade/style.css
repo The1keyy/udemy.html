@@ -6,7 +6,16 @@
 }
 
 p {
-  color: yellow;
+  color: rgb(255, 255, 0);
   margin: 0;
   padding: 0;
 }
+ #outer-box {
+  background-color: purple;
+  padding: 10px;}
+
+.white-text {
+  background-color: red;
+  color: white;
+}
+
