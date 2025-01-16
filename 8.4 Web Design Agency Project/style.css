@@ -19,3 +19,8 @@ footer {
   color: midnightblue;
 }
 
+img {
+  float: left;
+  display: inline-block;
+}
+
