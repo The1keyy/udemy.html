@@ -12,22 +12,29 @@ body {
 
 h1 {
   font-size: 5rem;
-  clear: both;
 }
 
 footer {
   text-align: right;
   color: midnightblue;
-  clear: both;
 }
 
 .title-image {
   height: 50px;
   width: 50px;
   float: left;
+  margin-right: 50px;
 }
 
 .left {
-  ;
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.card {
+  width: 45%;
 }
 
