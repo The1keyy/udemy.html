@@ -12,15 +12,22 @@ body {
 
 h1 {
   font-size: 5rem;
+  clear: both;
 }
 
 footer {
   text-align: right;
   color: midnightblue;
+  clear: both;
 }
 
-img {
+.title-image {
+  height: 50px;
+  width: 50px;
   float: left;
-  display: inline-block;
+}
+
+.left {
+  ;
 }
 
